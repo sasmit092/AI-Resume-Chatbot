@@ -1,0 +1,73 @@
+{
+  "personal": {
+    "name": "Sasmit Sarang",
+    "title": "Aspiring Frontend Developer",
+    "email": "sasmitsarang78@gmail.com",
+    "github": "https://github.com/sasmit092",
+    "linkedin": "https://linkedin.com/in/sasmitsarang",
+    "location": "Thane, Maharashtra",
+    "summary": "Aspiring Frontend Developer with hands-on experience in building intuitive and responsive UIs using HTML, CSS, JavaScript, and React.js. Skilled in optimizing front-end performance, integrating APIs, and enhancing user experience. Familiar with data analysis tools like Power BI and SQL. Passionate about leveraging modern technologies and AI tools to create impactful digital solutions."
+  },
+  
+  "education": [
+    {
+      "institution": "New Horizon Institute of Technology and Management",
+      "degree": "Bachelor of Engineering in Computer Engineering",
+      "period": "2020-2024",
+      "location": "Thane, Maharashtra",
+      "cgpa": "7.85"
+    },
+    {
+      "institution": "Saraswati Vidyalaya Jr College",
+      "degree": "HSC",
+      "period": "2018-2020",
+      "location": "Thane, Maharashtra",
+      "percentage": "68.31"
+    }
+  ],
+  
+  "projects": [
+    {
+      "name": "TechStore",
+      "technologies": ["HTML", "Javascript", "React", "Tailwind CSS"],
+      "description": "Built a visually appealing and highly responsive Tech Gadget E-commerce Storefront using HTML, Tailwind CSS, and Vanilla JavaScript, resulting in a seamless user experience across diverse devices and screen sizes.",
+      "highlights": [
+        "Optimized front-end performance, achieving fast load times and smooth interactions",
+        "Spearheaded the design and implementation of a robust component library",
+        "Features dynamic Header, versatile Product Cards, Light/Dark Mode toggle, and Add-to-Cart system"
+      ],
+      "github": "https://github.com/sasmit092/techstore"
+    },
+    {
+      "name": "Food Restaurant",
+      "technologies": ["HTML", "Javascript", "React", "Tailwind CSS"],
+      "description": "Developed a fully responsive and interactive food ordering application, delivering a seamless user experience across diverse devices.",
+      "highlights": [
+        "Leveraged React.js for component-based architecture with efficient state management",
+        "Integrated Swiggy Public API for real-time restaurant data",
+        "Implemented dynamic shopping cart system and detailed restaurant profiles"
+      ],
+      "github": "https://github.com/sasmit092/foodrestaurant"
+    },
+    {
+      "name": "Movieweb",
+      "technologies": ["HTML", "CSS", "Javascript", "React"],
+      "description": "Utilized the TMDB API to fetch and display real-time movie and TV show data, showcasing expertise in API integration.",
+      "highlights": [
+        "Implemented lazy loading for optimized performance",
+        "Integrated Firebase Authentication for secure user management",
+        "Deployed on Firebase Hosting for accessibility and scalability"
+      ],
+      "github": "https://github.com/sasmit092/netflixgpt"
+    }
+  ],
+  "skills": {
+    "languages": ["HTML", "CSS", "JavaScript", "SQL"],
+    "technologies": ["Tableau", "Power BI", "React.js", "Bootstrap", "Tailwind CSS", "Git", "VS Code"],
+    "concepts": ["Web Development", "AI Tools (ChatGPT, Gemini, BlackBox, Bolt.new, Perplexity, DeepSeek)", "API", "Database"]
+  },
+  "certificates": [
+    "Namaste React by Akshay Saini",
+    "Front End Developer Microsoft Certificate"
+  ]
+}
