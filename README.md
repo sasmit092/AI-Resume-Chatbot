@@ -1,5 +1,4 @@
 # AI-Resume-Chatbot
-https://aipoweredchatbxt.netlify.app/  
 
 Core Features:
 Interactive chat interface with typing indicators and smooth animations.
